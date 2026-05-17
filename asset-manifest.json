@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/StudySync-A-Smart-Academic-Companion/static/css/main.31d6cfe0.css",
-    "main.js": "/StudySync-A-Smart-Academic-Companion/static/js/main.e398e67a.js",
+    "main.js": "/StudySync-A-Smart-Academic-Companion/static/js/main.92a0f8c4.js",
     "static/js/453.a5035b06.chunk.js": "/StudySync-A-Smart-Academic-Companion/static/js/453.a5035b06.chunk.js",
     "index.html": "/StudySync-A-Smart-Academic-Companion/index.html",
-    "main.e398e67a.js.map": "/StudySync-A-Smart-Academic-Companion/static/js/main.e398e67a.js.map",
+    "main.92a0f8c4.js.map": "/StudySync-A-Smart-Academic-Companion/static/js/main.92a0f8c4.js.map",
     "453.a5035b06.chunk.js.map": "/StudySync-A-Smart-Academic-Companion/static/js/453.a5035b06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.e398e67a.js"
+    "static/js/main.92a0f8c4.js"
   ]
 }
